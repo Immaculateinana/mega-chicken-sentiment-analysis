@@ -1,0 +1,21 @@
+The report generated from Gemini was posted on Canva to generate data visualizations.
+The python code reports generated from Kimi was posted on jupyter notebook on Anaconda interface to generate the report dashboard.
+
+PROMPTS POSTED ACROSS GEMINI, CHATGPT, AND KIMI:
+
+Hello Gemini. How are you doing today.
+The attached file is a  document containing  Social media (Facebook, Instagram, and Tiktok) comments from customers of Mega Chicken Restaurant Lagos.
+Please I need you  to perform a corporate-level sentiment, emotion and brand
+analysis. Let the analysis be complete with graphs, dashboards, charts and other necessary professional brand analysis details.
+Please use different colors to capture different emotions, different
+sentiments, different entities (NER), different POS (Parts of Speech), etc.
+Please also use different colors to capture different emotions, different
+sentiments, different entities (NER), different POS (Parts of Speech), etc.
+Also,  put all of these together and generate a statistical and non
+statistical summary of the emotions and sentiments reflected in the
+comments. 
+I also need you to  identify the major emotions and sentiments that run
+through all the comments and make professional recommendation and actionable insights on how the owners of Mega Chicken can  grow their brand past the current level.
+As always you know I love to keep things very neat, professional, and top-notch. So, let the presentation be corporate-style. Something I can present to the Board of Directors.
+Please make the report that you generate downloadable.
+Thank you so much.
