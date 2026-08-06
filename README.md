@@ -1,8 +1,6 @@
-# 🐔 Mega Chicken Social Media Sentiment Analysis
+## 🐔 Mega Chicken Social Media Sentiment Analysis
 
 An AI-powered sentiment analysis project that explores customer feedback on Mega Chicken Restaurant using Natural Language Processing (NLP), data analysis, and interactive visualisations to uncover actionable business insights.
-
----
 
 ## 📖 Project Overview
 
@@ -26,17 +24,15 @@ The project combines Artificial Intelligence, data analysis, and data visualisat
 
 - Python
 - Jupyter Notebook (Anaconda)
-- Natural Language Processing (NLP)
 - Pandas
 - Matplotlib
 - Artificial Intelligence
 - Microsoft Excel
 
----
 
 ## 📂 Repository Structure
 
-```
+
 mega-chicken-sentiment-analysis
 │
 ├── code
@@ -95,12 +91,11 @@ The prompts used to guide the AI models throughout this project have been includ
 
 AI • Full-Stack Development • Data Analysis • Digital Storytelling
 
-Portfolio: *(Add your portfolio URL here)*
+Portfolio:  https://immaculateinana.github.io/VIBE_ENGINEERED_PERSONAL_PORTFOLIO/
 
 Blog: https://immaculateinana.github.io/LETS_GROW/
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: www.linkedin.com/in/immaculate-ileagu-5a883522a
 
----
 
 ⭐ If you found this project interesting, consider giving it a star.
